@@ -27,7 +27,7 @@ This project addresses the problem by building an **automated classification sys
 
 ---
 
-## 🧠 Key ML Engineering Highlights
+## 🧠 Highlights
 - Designed a **modular NLP pipeline** from raw text to deployment
 - Handled **severe class imbalance** using SMOTE
 - Benchmarked multiple **model–feature combinations**
