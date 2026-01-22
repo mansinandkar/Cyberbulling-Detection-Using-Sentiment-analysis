@@ -120,6 +120,14 @@ ROC-AUC: 0.98
 - Frontend interaction using **HTML + JavaScript**
 - Real-time text classification
 
+
+---
+
+
+## 📰 Publications
+- https://ieeexplore.ieee.org/document/10467658
+- https://journal.esrgroups.org/jes/article/view/4992/3641/9188
+
 ---
 
 ## 🤝 Contributors
