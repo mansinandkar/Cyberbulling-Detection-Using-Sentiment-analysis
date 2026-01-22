@@ -1,4 +1,4 @@
-# 🛡️ Cyberbullying Detection using Sentiment Analysis (ML Engineer Project)
+# 🛡️ Cyberbullying Detection using Sentiment Analysis 
 
 ## 📌 Project Overview
 This project implements an **end-to-end supervised machine learning pipeline** for detecting cyberbullying in social media text using **sentiment analysis and classical NLP techniques**.
